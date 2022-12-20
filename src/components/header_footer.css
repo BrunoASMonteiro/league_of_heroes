@@ -1,0 +1,13 @@
+.head_foot_conteiner{
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+.head_foot_conteiner img{
+    
+    padding-right: 5%;
+    height: 80px;
+}
